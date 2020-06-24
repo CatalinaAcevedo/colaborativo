@@ -1,4 +1,4 @@
-#🏝️ colaborativo🏝️
+# 🏝️ colaborativo🏝️
 ## taller 
 __1. comandos__
 + 1. git status
@@ -9,6 +9,6 @@ __1. comandos__
 __2 .taller-__
      1. imagen
      2. tesoro
-    >Project](tesoro.jpg "mi tesoro")
+    ![Project](tesoro.jpg "mi tesoro")
     
 **Perceberar sin miedo**
